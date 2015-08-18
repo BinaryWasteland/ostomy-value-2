@@ -1,0 +1,22 @@
+{
+  "name": "wwwroot",
+  "version": "0.0.0",
+  "authors": [
+    "Greg R. Jacobs <greg.jacobs@binarywasteland.com>"
+  ],
+  "description": "A Redesign of the Ostomy Vault website",
+  "license": "MIT",
+  "homepage": "http://ostomyvault.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
